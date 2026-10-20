@@ -124,8 +124,6 @@ uma reformulação da consulta pelo especialista.
 Os testes em `tests/test_api.py` verificam HTTP real, negação, reenvio, isolamento,
 eventos, reinício de processo com pendência e corrida entre duas aprovações. Há ainda
 testes de transação em threads independentes, contexto forjado e hashes dos seeds.
-A [matriz de validação](docs/validacao.md) distingue essa verificação da validação
-de linguagem natural com Gemini.
 
 ## Como rodar
 
